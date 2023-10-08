@@ -62,16 +62,17 @@ A API utiliza endpoints RESTful para cada funcionalidade.
 As requisições são tratadas por controladores, seguindo o padrão MVC.
 Modelos de Dados:
 
-<b>Infectado</b>: Representa os dados de um paciente infectado com os campos sexo, data de nascimento, longitude e latitude.
+<b>Infectado</b>: Representa os dados de um paciente infectado com os campos sexo, data de nascimento, longitude e latitude. <br><br>
 <b>Banco de Dados</b>:
 
-Utiliza o MongoDB como banco de dados NoSQL para armazenar os registros de infectados.
+Utiliza o MongoDB como banco de dados NoSQL para armazenar os registros de infectados.<br><br>
 
 
 <b>Geolocalização<b>:
 
 Utiliza as informações de latitude e longitude para mapear a localização dos infectados em um sistema de geolocalização.
-<br/>
+
+<br/><br>
 
 Objetivo Final: Fornecer uma plataforma robusta para o gerenciamento de informações sobre infectados pelo COVID-19, auxiliando na tomada de decisões e na resposta eficaz a pandemias.
 
