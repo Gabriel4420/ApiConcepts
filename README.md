@@ -24,13 +24,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img alt="Gif da Aplicação" src="assets/HomeApp.png" />
-</p>
-
----
-
 # Indice
 
 - :rocket: [Sobre o Projeto](#rocket-sobre-o-projeto)
